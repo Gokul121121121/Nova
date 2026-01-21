@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+streamlit
+huggingface_hub
+python-dotenv
+=======
+streamlit
+huggingface_hub
+python-dotenv
+>>>>>>> 7f293982e1e326780625a14d1ac13f09b78c5a17
